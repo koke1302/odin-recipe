@@ -1,1 +1,1 @@
-# odin-recipe
+este proyecto trata de crear una receta para poner en practicas las habilidades adquiridas
